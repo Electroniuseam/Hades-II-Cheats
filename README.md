@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Hades-II-Cheats` · Updated: 2026-10-29
+`Hades-II-Cheats` · Updated: 2026-10-31
 
 **Tags:** `hades-ii` `roguelike` `action` `mythology` `indie`
